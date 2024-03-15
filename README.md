@@ -1,5 +1,7 @@
 # Meta React Native Capstone Project
 
+In this project, I retrieved and parsed data from a remote server to be displayed on the Home screen and storing it in a SQLite database. Filtering Data on the home screen, Create mobile app navigatin using stacknavigator, Persisting user data with Aysnstorage, maintaining state accross the component using React Context, adding image to profile using expo-image-picker.
+
 ## Initial wireframe design
 
 ![Wireframe](wireframe.jpg)
